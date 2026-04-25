@@ -23,6 +23,6 @@ What makes this case different is the outcome. In a system that enabled injustic
 It is also important to emphasize that this outcome was not the result of passive hope or purely peaceful appeal. Reform did not emerge from goodwill within the state, but from sustained pressure from below. Navajo miners and their families organized, formed unions, pursued legal action despite repeated losses, and continued to challenge institutional power through collective resistance (Brugge & Goble, 2000). This included acts of disobedience, persistence in the face of legal defeat, and a form of revolutionary optimism that refused to accept invisibility. It was this sustained, organized pressure that forced acknowledgment and reform, demonstrating that meaningful change within entrenched systems is not granted, but extracted.
 
 References
-Brugge, D., & Goble, R. (2000). The history of uranium mining and the Navajo people. American Journal of Public Health. http://large.stanford.edu/courses/2024/ph241/friedman1/docs/brugge-2000.pdf
-Brugge, D., & Goble, R. (n.d.). The history of uranium mining and the Navajo people. In Motion Magazine. https://www.inmotionmagazine.com/brugge.html
-Navajo Nation Department of Health. (n.d.). Uranium Workers Program. https://ndoh.navajo-nsn.gov/Department/Division-of-Public-Health-Service/Uranium-Workers-Program
+Brugge, D., & Goble, R. (2000). The history of uranium mining and the Navajo people. American Journal of Public Health. http://large.stanford.edu/courses/2024/ph241/friedman1/docs/brugge-2000.pdf \
+Brugge, D., & Goble, R. (n.d.). The history of uranium mining and the Navajo people. In Motion Magazine. https://www.inmotionmagazine.com/brugge.html \ 
+Navajo Nation Department of Health. (n.d.). Uranium Workers Program. https://ndoh.navajo-nsn.gov/Department/Division-of-Public-Health-Service/Uranium-Workers-Program \ 
