@@ -14,7 +14,7 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 
 ### Amazon Labour Union: 
 
-![Amazon Labour Union](https://image.cnbcfm.com/api/v1/image/107091850-1658366783760-GettyImages-1239668180.jpeg?v=1674164566)
+![Amazon Labour Union](https://www.thenation.com/wp-content/uploads/2024/10/UNION_still6.jpg)
 
 [Read the full case study →](alu.html)
 
