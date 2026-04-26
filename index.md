@@ -19,19 +19,25 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 [Read the full case study →](alu.html)
 
 
-## Reforms in Urban-Developement Tech: 
+## Reforms in Urban-Development Tech: 
 
-### Chipko Movememt: 
+### Chipko Movement: 
 
 ![Chipko Movement](https://earth.org/wp-content/uploads/2024/06/Untitled-683-x-1024-px-12-1200x800.jpg)
 
 [Read the full case study →](chipko.html)
 
+### The Dudley Street Neighborhood Initiative
+
+![The Dudley Street Neighborhood Initiative](https://holdinggroundproductions.com/wp-hgp/wp-content/uploads/2014/10/DSNI-photo.jpg)
+
+[Read the full case study →](dudley-street.html)
+
 ## Reforms in Medical Tech: 
 
-### Tuskgee Syphillis Study: 
+### Tuskegee Syphilis Study: 
 
-![Tuskgee Syphillis Study](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tuskegee_study.jpg/500px-Tuskegee_study.jpg)
+![Tuskegee Syphilis Study](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tuskegee_study.jpg/500px-Tuskegee_study.jpg)
 
 [Read the full case study →](tuskgee.html)
 

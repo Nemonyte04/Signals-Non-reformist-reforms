@@ -27,4 +27,4 @@ Wikipedia. "Chris Smalls." Wikimedia Foundation. https://en.wikipedia.org/wiki/C
 McCallum, Will. "Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer." VICE, 4 June 2021. https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/ \
 Iqbal, Mansoor. "Amazon Workers in Staten Island and Christian Smalls." The Guardian, 4 June 2021. https://www.theguardian.com/technology/2021/jun/04/amazon-workers-staten-island-christian-smalls \
 Amazon Labor Union. amazonlaborunion.org. https://www.amazonlaborunion.org/
-Wikipedia. "Amazon Labor Union." Wikimedia Foundation. https://en.wikipedia.org/wiki/Amazon_Labor_UnionSonnet 4.6 \
+Wikipedia. "Amazon Labor Union." Wikimedia Foundation. https://en.wikipedia.org/wiki/Amazon_Labor_Union \
