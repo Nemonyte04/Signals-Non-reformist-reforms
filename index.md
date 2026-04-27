@@ -45,4 +45,4 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 
 ![Women's Contraceptive Study](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tuskegee_study.jpg/500px-Tuskegee_study.jpg)
 
-[Read the full case study →](tuskgee.html)
+[Read the full case study →](contraceptive.html)
