@@ -24,14 +24,15 @@ The National Research Act emerging from the Tuskegee Study reflects more than pr
 
 References:
 
-H.R.7724 - 93rd Congress (1973-1974): National Research Act. (1974, July 12). https://www.congress.gov/bill/93rd-congress/house-bill/7724 
-Office for Human Research Protections (OHRP). (2026, March 25). Read the Belmont Report. HHS.gov. https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html 
+CDC. “The Untreated Syphilis Study at Tuskegee Timeline.” The U.S. Public Health Service Untreated Syphilis Study at Tuskegee, 2024, www.cdc.gov/tuskegee/about/timeline.html. x
 
-Centers for Disease Control and Prevention. (n.d.). The untreated syphilis study at Tuskegee Timeline. https://www.cdc.gov/tuskegee/about/timeline.html?CDC_AAref_Val=https%3A%2F%2Fwww.cdc.gov%2Ftuskegee%2Ftimeline.htm 
+Heller, Jean. “AP WAS THERE: Black Men Untreated in Tuskegee Syphilis Study.” AP News, The Associated Press, 10 May 2017, apnews.com/article/business-science-health-race-and-ethnicity-syphilis-e9dd07eaa4e74052878a68132cd3803a. 
 
-National Archives and Records Administration. (1997, May 16). National Archives and Records Administration. https://clintonwhitehouse4.archives.gov/textonly/New/Remarks/Fri/19970516-898.html 
+“H.R.7724 - 93rd Congress (1973–1974): National Research Act.” Congress.gov, Library of Congress, 12 July 1974, https://www.congress.gov/bill/93rd-congress/house-bill/7724. 
 
-Heller, J. (2021, August 13). AP was there: Black men untreated in tuskegee syphilis study. AP News. https://apnews.com/article/business-science-health-race-and-ethnicity-syphilis-e9dd07eaa4e74052878a68132cd3803a 
+Iovino, Nicholas. “UC Law SF Remembers Tuskegee Experiment Whistleblower Peter Buxtun ’71.” UC Law San Francisco, 26 July 2024, www.uclawsf.edu/2024/07/26/tuskegee-whistleblower-peter-buxtun/. 
 
-Iovino, N. (2025, April 28). UC Law SF remembers Tuskegee Experiment whistleblower Peter Buxtun ’71. UC Law San Francisco (Formerly UC Hastings). https://www.uclawsf.edu/2024/07/26/tuskegee-whistleblower-peter-buxtun/ 
+Office of the Press Secretary. “Apology for Study Done in Tuskegee.” Clinton White House Archives, 16 May 1997, clintonwhitehouse4.archives.gov/textonly/New/Remarks/Fri/19970516-898.html. 
+
+The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. “The Belmont Report.” U.S. Department of Health and Human Services, 18 Apr. 1979, www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html. 
 
